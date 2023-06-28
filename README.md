@@ -1,2 +1,2 @@
 # Jutge
-Repository for the exersices completed while studying at the FIB
+Repository for the exercises completed while studying at the FIB
